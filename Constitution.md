@@ -27,14 +27,14 @@ Your league officers are available if you have any questions or are in need of a
 
 If your question pertains to a feature provided by our [fantasy football hosting provider](https://sleeper.app/), please utilize their [support resources](https://support.sleeper.app/en/) before contacting a league officer. 
 
-For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact one of the co-commissioners.  
+For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner.  
 
-If you cannot contact a commissioner or co-commissioner, and your issue is time-sensitive (for instance, if you are requesting a roster modification because you don't have access to the Internet), please use the league message board to make your request. In this way,  we can verify the time of your request and make your roster change retroactively if necessary.
+If you cannot contact a commissioner or co-commissioner, and your issue is time-sensitive (for instance, if you are requesting a roster modification because you don't have access to the Internet), please use the league message board to make your request. In this way, we can verify the time of your request and make your roster change retroactively if necessary.
 
 ### League Commissioner ###
 __Rob Myers__
 
-- Phone
+- Text Message
   - (240) 252-4895
 - Email
   - rhmyers74@gmail.com
@@ -48,7 +48,7 @@ __Rob Myers__
 
 __Tom Pritchard__
 
-- Phone  
+- Text Message
   - (###) ###-####
 - Email
   - aaaaa@bbbbb.com 
@@ -71,7 +71,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
+Collusion will not be tolerated. A trade will be vetoed if there is evident collusion
 
 <br><br>
 
@@ -80,7 +80,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Yearly Dues ###
 - The Yearly Dues for the league are $20 per team
 - For the 2020 season this must be paid before the start of the regular season
-- After the 2020 season yearly dues must be paid 2 weeks before the start of the yearly rookie draft
+- Starting with the 2021 season yearly dues must be paid 2 weeks before the start of the yearly rookie draft
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft. It will be up to the commissioners discretion on whether or not to replace them.
@@ -110,6 +110,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
    D/ST | 1 | No Limit
    BE | 18 | No Limit
    IR | 5 | 5
+   Taxi | 6 | 6 
 
 <br><br>
 

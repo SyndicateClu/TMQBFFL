@@ -1,1 +1,3 @@
 # TMQBFFL
+
+[Constitution](Constitution.md)

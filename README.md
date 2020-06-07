@@ -4,6 +4,8 @@
 
 [Franchise History](History.md)
 
+---
+
 ## Past Season Results
 
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |

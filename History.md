@@ -4,6 +4,8 @@
 
 ## Franchise History
 
+<br>
+
 | Name                                 |            Awards             |
 | :----------------------------------- | :---------------------------: |
 | Aspen Hill Choadies (2002 - present) | &#x1F949; 2010 &#x1F949; 2004 |

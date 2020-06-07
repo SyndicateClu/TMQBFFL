@@ -8,6 +8,8 @@
 
 ## Past Season Results
 
+<br>
+
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |
 | :------------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: |
 | [2019](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2019) |   San Diego Fetts    | Washington Wildcards |       MaxRock        |

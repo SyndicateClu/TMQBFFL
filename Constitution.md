@@ -134,7 +134,9 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Taxi Squad
 
-- Each team will have six taxi squad (aka practic squad) spots to stash younger players off the active roster
+(aka practic squad)
+
+- Each team will have six taxi squad spots to stash younger players off the active roster
   - Players on the taxi squad can be activated to active roster at any time
   - After the regular season starts the taxi squad locks and no more players may be added
 - 1st or 2nd year players may be added to the squad

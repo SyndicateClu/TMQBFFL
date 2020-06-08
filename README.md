@@ -1,4 +1,4 @@
-# TMQBFFL
+# Tuesday Morning Quarterback Fantasy Football League
 
 [League Constitution](Constitution.md)
 

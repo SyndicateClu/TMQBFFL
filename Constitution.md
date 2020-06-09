@@ -222,12 +222,13 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 | Rushing       | Points                             |
 | :------------ | :--------------------------------- |
+| Rush Attenpts | -0.4                               |
 | Rushing Yards | +0.2 per yard (5 yards = 1 point ) |
 | Rushing TD    | +6                                 |
-| Rush Attenpts | -0.4                               |
 
 | Receiving       | Points                               |
 | :-------------- | :----------------------------------- |
+| Receptions      | 0.5 per reception                    |
 | Receiving Yards | +0.07 per yard (15 yards = 1 point ) |
 | Receiving TD    | +6                                   |
 
@@ -258,7 +259,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Blocked Kick              | +2                                  |
 | 2-Pt Conversion Returns   | +2                                  |
 | Missed FG Return Yards    | +0.05 per yard (20 yards = 1 point) |
-| Blocked Kick Return Yards | +0.05 per yard (20 yards = 1 point  |
+| Blocked Kick Return Yards | +0.05 per yard (20 yards = 1 point) |
 
 | Special Teams Defense         | Points                              |
 | :---------------------------- | :---------------------------------- |

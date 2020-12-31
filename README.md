@@ -14,6 +14,7 @@
 
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |
 | :------------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: |
+| [2020](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2020) |   phutang24          | Washington Wildcards |       MAksRock       |
 | [2019](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2019) |   San Diego Fetts    | Washington Wildcards |       MaxRock        |
 | [2018](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2018) |   San Diego Fetts    |      Ron Mexico      | TwinbrookJiveTurkeys |
 | [2017](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2017) | Washington Wildcards |      Ron Mexico      |       MaxRock        |

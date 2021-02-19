@@ -37,13 +37,16 @@ If you cannot contact a commissioner or co-commissioner, and your issue is time-
 ### League Commissioner
 
 **Rob Myers**
-
-- Text Message
-  - (240) 252-4895
+- Sleeper
+  - SyndicateClu
 - Email
   - rhmyers74@gmail.com
 - Discord
   - SyndicateClu#0146
+- Skype
+  - SyndicateClu
+- Text Message
+  - (240) 252-4895
 
 <br>
 

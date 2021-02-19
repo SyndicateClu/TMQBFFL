@@ -99,8 +99,7 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 ### Yearly Dues
 
 - The Yearly Dues for the league are \$20 per team
-- For the 2020 season this must be paid before the start of the regular season
-- Starting with the 2021 season yearly dues must be paid 2 weeks before the start of the yearly rookie draft
+- Yearly dues must be paid 2 weeks before the start of the yearly rookie draft
 
 ### Penalties
 
@@ -127,7 +126,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | RB                 | 1        | No Limit |
 | WR                 | 1        | No Limit |
 | TE                 | 1        | No Limit |
-| FLEX (RB/WR)       | 2        |
+| FLEX (WR/RB)       | 2        |
 | FLEX (WR/TE)       | 1        |
 | FLEX (QB/RB/WR/TE) | 1        |
 | D/ST               | 1        | No Limit |
@@ -165,6 +164,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 - During the offseason trading is still allowed
 - Trade deadline week 13 of the regular season
 - Draft picks up to 3 years in the future are tradable
+  - When trading picks from beyond the current season the team trading future assets away must pre-pay those league dues.
 - Once both parties have accepted the trade, it cannot be withdrawn by one party due to player injury, suspension, or any other unforeseen circumstance.
 
 <br><br>

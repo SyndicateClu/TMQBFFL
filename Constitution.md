@@ -26,13 +26,13 @@
 
 ### Contacting League Officers
 
-Your league officers are available if you have any questions or are in need of assistance.
+The league officers consist of the commissioner and co-commissioners. Your league officers are available if you have any questions or are in need of assistance.
 
 If your question pertains to a feature provided by our [fantasy football hosting provider](https://sleeper.app/), please utilize their [support resources](https://support.sleeper.app/en/) before contacting a league officer.
 
 For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner.
 
-If you cannot contact a commissioner or co-commissioner, and your issue is time-sensitive (for instance, if you are requesting a roster modification because you don't have access to the Internet), please use the league message board to make your request. In this way, we can verify the time of your request and make your roster change retroactively if necessary.
+If your issue is time-sensitive please email or text both the commissioner and co-commissioners so that that a timestamp of the request will be recorded. This way we can verify the time of your request and make your roster change retroactively if necessary. The league message board is not sufficiint for time-sensitive requests at this time as the timestamp is not detailed enough. 
 
 ### League Commissioner
 
@@ -90,7 +90,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ### Collusion
 
-Collusion will not be tolerated. A trade will be vetoed if there is evident collusion
+Collusion will not be tolerated. A trade will be vetoed if there is evident collusion.
 
 <br><br>
 
@@ -98,8 +98,8 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 
 ### Yearly Dues
 
-- The Yearly Dues for the league are \$20 per team
-- Yearly dues must be paid 2 weeks before the start of the yearly rookie draft
+- The Yearly Dues for the league are \$20 per team.
+- Yearly dues must be paid 2 weeks before the start of the yearly rookie draft.
 
 ### Penalties
 
@@ -126,9 +126,9 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | RB                 | 1        | No Limit |
 | WR                 | 1        | No Limit |
 | TE                 | 1        | No Limit |
-| FLEX (WR/RB)       | 2        |
-| FLEX (WR/TE)       | 1        |
-| FLEX (QB/RB/WR/TE) | 1        |
+| FLEX (WR/RB)       | 2        | 2        |
+| FLEX (WR/TE)       | 1        | 1        |
+| FLEX (QB/RB/WR/TE) | 1        | 1        |
 | D/ST               | 1        | No Limit |
 | BE                 | 18       | No Limit |
 | IR                 | 5        | 5        |
@@ -142,8 +142,8 @@ The payouts detailed above shall be considered the actual payout amounts pending
   - Players on the taxi squad may not start in games
   - Players can be activated from the taxi squad to the active roster at any time
   - After the regular season starts the taxi squad locks and no more players may be added
-  - 1st or 2nd year players may be added to the squad
-    - Players that end the season with more that 2 years experience must be activated from the taxi squad
+  - 1st year players may be added to the squad
+    - Players that end the season with more that 3 years experience must be activated from the taxi squad
 
 <br><br>
 

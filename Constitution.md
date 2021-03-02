@@ -18,7 +18,9 @@
 - [Playoffs](#section-viii---playoffs)
   - [Championship](#championship-bracket)
   - [Toilet](#toilet-bowl)
-- [Scoring](#section-ix---scoring)\
+- [Scoring](#section-ix---scoring)
+  <br>
+  <br>
 
 ## **Section I - League Officers**
 
@@ -32,7 +34,7 @@ For league-specific issues, please contact the league commissioner first. If the
 
 If your issue is time-sensitive please email or text both the commissioner and co-commissioner(s) so that that a timestamp of the request will be recorded. This way we can verify the time of your request and make your roster change retroactively if necessary. The league message board is not sufficiint for time-sensitive requests at this time as the timestamp is not detailed enough.
 
-### League Commissioner(s)
+### League Commissioner
 
 #### Rob Myers
 
@@ -85,7 +87,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 
 ### Rule Changes
 
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote).
 <br>
 
 ### Collusion
@@ -103,7 +105,7 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 
 ### Penalties
 
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft. It will be up to the commissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft. It will be up to the league officers discretion whether or not to replace them.
 
 <br><br>
 
@@ -164,7 +166,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 - During the offseason trading is still allowed
 - Trade deadline week 13 of the regular season
 - Draft picks up to 3 years in the future are tradable
-  - When trading picks from beyond the current season the team trading future assets away must pre-pay those league dues.
+  - When trading picks from beyond the current season the team trading future assets away must pre-pay league dues for those years.
 - Once both parties have accepted the trade, it cannot be withdrawn by one party due to player injury, suspension, or any other unforeseen circumstance.
 
 <br><br>

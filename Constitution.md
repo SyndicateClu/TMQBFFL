@@ -26,27 +26,28 @@
 
 ### Contacting League Officers
 
-The league officers consist of the commissioner and co-commissioners. Your league officers are available if you have any questions or are in need of assistance.
+The league officers consist of the commissioner and co-commissioner(s). Your league officers are available if you have any questions or are in need of assistance.
 
 If your question pertains to a feature provided by our [fantasy football hosting provider](https://sleeper.app/), please utilize their [support resources](https://support.sleeper.app/en/) before contacting a league officer.
 
-For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner.
+For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner(s).
 
-If your issue is time-sensitive please email or text both the commissioner and co-commissioners so that that a timestamp of the request will be recorded. This way we can verify the time of your request and make your roster change retroactively if necessary. The league message board is not sufficiint for time-sensitive requests at this time as the timestamp is not detailed enough. 
+If your issue is time-sensitive please email or text both the commissioner and co-commissioner(s) so that that a timestamp of the request will be recorded. This way we can verify the time of your request and make your roster change retroactively if necessary. The league message board is not sufficiint for time-sensitive requests at this time as the timestamp is not detailed enough.
 
-### League Commissioner
+### League Commissioner(s)
 
 **Rob Myers**
+
 - Sleeper
   - SyndicateClu
 - Email
   - rhmyers74@gmail.com
 - Discord
   - SyndicateClu#0146
-- Skype
-  - SyndicateClu
 - Text Message
   - (240) 252-4895
+- Skype
+  - SyndicateClu
 
 <br>
 
@@ -71,6 +72,7 @@ The commissioner has the ability to (in appropriate situations) edit lineups (ei
 ### Co-Commissioner Site Powers
 
 The Co-Commissioner will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner can attend to any urgent needs from league members.
+
 <br>
 
 ### Co-Commissioner Appointment

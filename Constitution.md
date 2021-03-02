@@ -18,9 +18,7 @@
 - [Playoffs](#section-viii---playoffs)
   - [Championship](#championship-bracket)
   - [Toilet](#toilet-bowl)
-- [Scoring](#section-ix---scoring)
-  <br>
-  <br>
+- [Scoring](#section-ix---scoring)\
 
 ## **Section I - League Officers**
 
@@ -55,7 +53,7 @@ If your issue is time-sensitive please email or text both the commissioner and c
 
 > Pending league votes to ratify this constitution and appoint co-commissioner
 
-**Tom Pritchard**
+#### Tom Pritchard
 
 - Text Message
   - (###) ###-####

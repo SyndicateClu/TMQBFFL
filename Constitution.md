@@ -40,10 +40,10 @@ If your issue is time-sensitive please email or text both the commissioner and c
 
 - Sleeper
   - SyndicateClu
-- Email
-  - rhmyers74@gmail.com
 - Discord
   - SyndicateClu#0146
+- Email
+  - rhmyers74@gmail.com
 - Text Message
   - (240) 252-4895
 - Skype
@@ -60,9 +60,9 @@ If your issue is time-sensitive please email or text both the commissioner and c
 - Sleeper
   - TPritchard31
 - Text Message
-  - (###) ###-####
+  - (619) 847-8298
 - Email
-  - aaaaa@bbbbb.com
+  - tpritchard31@gmail.com
 
 <br>
 

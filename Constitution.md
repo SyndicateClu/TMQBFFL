@@ -53,8 +53,6 @@ If your issue is time-sensitive please email or text both the commissioner and c
 
 ### Co-Commissioner
 
-> Pending league votes to ratify this constitution and appoint co-commissioner
-
 #### Tom Pritchard
 
 - Sleeper

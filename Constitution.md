@@ -1,4 +1,10 @@
-# TMQBFFL Constitution
+# Tuesday Morning Quarterback Fantasy Football League
+
+---
+
+[TMQBFFL Home](README.md)
+
+## Constitution
 
 ## Table of Contents
 
@@ -71,7 +77,7 @@ The commissioner has the ability to (in appropriate situations) edit lineups (ei
 
 ### Co-Commissioner Site Powers
 
-The Co-Commissioner will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner can attend to any urgent needs from league members.
+The Co-Commissioner(s) will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner(s) can attend to any urgent needs from league members.
 
 ### Co-Commissioner Appointment
 
@@ -143,7 +149,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
   - Players can be activated from the taxi squad to the active roster at any time
   - After the regular season starts the taxi squad locks and no more players may be added
   - 1st year players may be added to the squad
-    - Players that end the season with more that 3 years experience must be activated from the taxi squad
+    - Players that end the season with more that 2 years experience must be activated from the taxi squad
 
 <br><br>
 

@@ -73,8 +73,6 @@ The commissioner has the ability to (in appropriate situations) edit lineups (ei
 
 The Co-Commissioner will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner can attend to any urgent needs from league members.
 
-<br>
-
 ### Co-Commissioner Appointment
 
 The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
@@ -82,12 +80,12 @@ The Commissioner can nominate up to two Co-Commissioners who will then require a
 
 ### Dispute Arbitration
 
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioner(s). If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 <br>
 
 ### Rule Changes
 
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote).
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
 <br>
 
 ### Collusion

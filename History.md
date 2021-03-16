@@ -1,8 +1,8 @@
 # Tuesday Morning Quarterback Fantasy Football League
 
----
-
 [TMQBFFL Home](README.md)
+
+---
 
 ## Franchise History
 

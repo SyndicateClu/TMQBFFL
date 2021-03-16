@@ -6,8 +6,6 @@
 
 ---
 
-<br>
-
 ## Past Season Results
 
 <br>

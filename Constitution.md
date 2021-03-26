@@ -166,7 +166,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Trades
 
-- Trades will be processed after 24 hours, if collusion is suspected the matter will be put to a vote
+- Trades will be processed after accepted, if collusion is suspected the matter will be put to a vote
 - During the offseason trading is still allowed
 - Trade deadline week 13 of the regular season
 - Draft picks up to 3 years in the future are tradable
@@ -227,7 +227,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Passing Yards    | +0.04 per yard (25 yards = 1 point) |
 | Passing TD       | +6                                  |
 | Pass Intercepted | -3                                  |
-| QB Sacked        | -1                                  |
+| QB Sacked        | -0.5                                |
 
 | Rushing       | Points                             |
 | :------------ | :--------------------------------- |
@@ -238,7 +238,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Receiving       | Points                               |
 | :-------------- | :----------------------------------- |
 | Receptions      | 0.5 per reception                    |
-| Receiving Yards | +0.07 per yard (15 yards = 1 point ) |
+| Receiving Yards | +0.08 per yard (12 yards = 1 point ) |
 | Receiving TD    | +6                                   |
 
 | Misc            | Points |
@@ -255,14 +255,14 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Points Allowed 14-20      | +1                                  |
 | Points Allowed 28-34      | -1                                  |
 | Points Allowed 35+        | -4                                  |
-| Hit on QB                 | +1                                  |
+| Hit on QB                 | +0.5                                |
 | Sacks                     | +1                                  |
 | Sack Yards                | +0.05 per yard (20 yards = 1 point) |
 | Interceptions             | +3                                  |
 | INT Return Yards          | +0.05 per yard (20 yards = 1 point) |
 | Fumble Recovery           | +2                                  |
 | Fumble Return Yards       | +0.05 per yard (20 yards = 1 point) |
-| Tackle For Loss           | +1                                  |
+| Tackle For Loss           | +0.5                                |
 | Safety                    | +2                                  |
 | Forced Fumble             | +1                                  |
 | Blocked Kick              | +2                                  |

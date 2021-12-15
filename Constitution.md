@@ -179,9 +179,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Rookie Draft Order
 
-- The draft order for the rookie draft will be determined based on post-season results from the previous year
-- Picks 1-4 will be assigned in order of the toilet bowl resuls
-- Picks 5-10 will be assigned in inverse order of the postseason standings
+- The draft order for the rookie draft will be determined based on MAX PF(Potential Points) from the previous regular season
 
 ### Rookie Draft Settings
 

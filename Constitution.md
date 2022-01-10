@@ -180,6 +180,8 @@ The payouts detailed above shall be considered the actual payout amounts pending
 ### Rookie Draft Order
 
 - The draft order for the rookie draft will be determined based on MAX PF(Potential Points) from the previous regular season
+  - MAX PF only currently visible in Sleeper mobile applications
+    - League > Standings > View Details
 
 ### Rookie Draft Settings
 

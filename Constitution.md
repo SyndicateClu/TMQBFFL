@@ -104,7 +104,7 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 
 ### Yearly Dues
 
-- The Yearly Dues for the league are \$20 per team.
+- The Yearly Dues for the league are \$25 per team.
 - Yearly dues must be paid 2 weeks before the start of the yearly rookie draft.
 
 ### Penalties
@@ -115,9 +115,9 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## **Section III - Payout**
 
-- 1st Place: \$125 (62.5%)
-- 2nd Place: \$50 (25%)
-- 3rd Place: \$25 (12.5%)
+- 1st Place: \$150 (60%)
+- 2nd Place: \$65 (26%)
+- 3rd Place: \$35 (14%)
 
 The payouts detailed above shall be considered the actual payout amounts pending verification of payment from all owners. Payout percentages will be used if we are unable to collect some fees from all league owners.
 <br><br>
@@ -179,9 +179,13 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Rookie Draft Order
 
-- The draft order for the rookie draft will be determined based on MAX PF(Potential Points) from the previous regular season
+- The 2021 draft order for the rookie draft will be determined based on MAX PF(Potential Points) from the previous regular season
   - MAX PF only currently visible in Sleeper mobile applications
     - League > Standings > View Details
+
+- Starting in 2023 the draft order will be as follows
+  - Playoff teams draft order will be set by playoff results. (Picks 5-10)
+  - MAX PF will be used to set the order for non playoff teams. (Picks 1-4)
 
 ### Rookie Draft Settings
 
@@ -200,8 +204,8 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Regular Season Schedule
 
-- The regular season lasts from week 1 to week 13
-- Playoffs begin week 14 with the championship game occuring week 16
+- The regular season lasts from week 1 to week 14
+- Playoffs begin week 15 with the championship game occuring week 17
 
 <br><br>
 
@@ -213,10 +217,9 @@ The payouts detailed above shall be considered the actual payout amounts pending
 - The two teams with the best regular season records will be assigned to the top two seeds and receive a 1st round bye
 - The next four teams will be assigned their playoff seeding spot based on regular season record
 
-### Toilet Bowl
+### Consolation Bracket
 
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket
-- In the Toilet Bowl, the loser advances to the next round, until there becomes an ultimate loser, who is awarded the first overall pick 1.01
 
 <br><br>
 
@@ -227,7 +230,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Passing Yards    | +0.04 per yard (25 yards = 1 point) |
 | Passing TD       | +6                                  |
 | Pass Intercepted | -3                                  |
-| QB Sacked        | -0.5                                |
+| QB Sacked        | 0                                   |
 
 | Rushing       | Points                             |
 | :------------ | :--------------------------------- |

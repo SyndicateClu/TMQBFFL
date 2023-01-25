@@ -12,6 +12,7 @@
 
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |
 | :------------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: |
+| [2022](https://sleeper.com/leagues/807735194927861760) |   No Time 4 Love AaronJones     | jivechickenlove     |      Laconia Magnetars       |
 | [2021](https://sleeper.app/leagues/673666958268383232) |   LeathaHands         | phutang24     |       MAksRock       |
 | [2020](https://sleeper.app/leagues/527983751494561792) |   phutang24          | Washington Wildcards |       MAksRock       |
 | [2019](https://football.fantasysports.yahoo.com/league/tuesdaymorningqbffl/2019) |   San Diego Fetts    | Washington Wildcards |       MaxRock        |

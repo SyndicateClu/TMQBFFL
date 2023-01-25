@@ -14,14 +14,14 @@
 
 | Name                                  |            Awards             |
 | :------------------------------------ | :---------------------------: |
-| jivechickenlove (2020 - present) | |
+| jivechickenlove (2020 - present) | &#x1F948; 2022 |
 | TwinbrookJiveTurkeys (2005 - 2019) | &#x1F949; 2018 &#x1F949; 2005 |
 | Fighting Seamen (2004)                |                               |
 | Da Bears (2002 - 2003)                |                               |
 
 | Name                             |            Awards             |
 | :------------------------------- | :---------------------------: |
-| No Time 4 Love AaronJones  (2021)    |                               |
+| No Time 4 Love AaronJones  (2021 - present)    |  &#x1F947; 2022                           |
 | Mandalore Mandalorians (2020)    |                               |
 | San Diego Fetts (2013 - 2019) | &#x1F947; 2019 &#x1F947; 2018 |
 | San Diego Hawkmen (2008 - 2011)  | &#x1F948; 2009 &#x1F947; 2008 |
@@ -65,7 +65,7 @@
 
 | Name                         |                    Awards                    |
 | :--------------------------- | :------------------------------------------: |
-| Laconia Magnetars (2021)  |                                              |
+| Laconia Magnetars (2021 - present)  | &#x1F949; 2022                                             |
 | Laruel Football Team (2020)  |                                              |
 | Soho Suns (2002 - 2019)      | &#x1F948; 2011 &#x1F949; 2009 &#x1F949; 2006 |
 

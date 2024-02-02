@@ -12,7 +12,7 @@
 
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |
 | :------------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: |
-| [2023](https://sleeper.com/leagues/992182027652489216) |   LeathaHands     | Ron Mexico     |      No Time 4 Love AaronJones       |
+| [2023](https://sleeper.com/leagues/992182027652489216) |   Ron Mexico     |  LeathaHands    |      No Time 4 Love AaronJones       |
 | [2022](https://sleeper.com/leagues/807735194927861760) |   No Time 4 Love AaronJones     | jivechickenlove     |      Laconia Magnetars       |
 | [2021](https://sleeper.app/leagues/673666958268383232) |   LeathaHands         | phutang24     |       MAksRock       |
 | [2020](https://sleeper.app/leagues/527983751494561792) |   phutang24          | Washington Wildcards |       MAksRock       |

@@ -21,7 +21,7 @@
 
 | Name                             |            Awards             |
 | :------------------------------- | :---------------------------: |
-| No Time 4 Love AaronJones  (2021 - present)    |  &#x1F947; 2022 &#x1F949; 2023                        |
+| No Time 4 Love AaronJones  (2021 - present)    |  &#x1F947; 2022                         |
 | Mandalore Mandalorians (2020)    |                               |
 | San Diego Fetts (2013 - 2019) | &#x1F947; 2019 &#x1F947; 2018 |
 | San Diego Hawkmen (2008 - 2011)  | &#x1F948; 2009 &#x1F947; 2008 |
@@ -42,7 +42,7 @@
 
 | Name                        |            Awards             |
 | :-------------------------- | :---------------------------: |
-| MAksRock (2020 - present)             |      &#x1F949; 2021 &#x1F949; 2020             |
+| MAksRock (2020 - present)             |      &#x1F949; 2021 &#x1F949; 2020 &#x1F949; 2023            |
 | MaxRock (2014 - 2019)       | &#x1F949; 2019 &#x1F949; 2017 |
 | Green Bitches (2012 - 2013) |        &#x1F948; 2012         |
 | Angry Dwarfs (2011)         |                               |

@@ -12,6 +12,7 @@
 
 |                                       Year                                       |       Champion       |      2nd Place       |      3rd Place       |
 | :------------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: |
+| [2024](https://sleeper.com/leagues/1124855757393657856) |   Denver Sea Bass     |  Aspen Hill Choadies   |      Ron Mexico    |
 | [2023](https://sleeper.com/leagues/992182027652489216) |   Ron Mexico     |  LeathaHands    |      MAksRock    |
 | [2022](https://sleeper.com/leagues/807735194927861760) |   No Time 4 Love AaronJones     | jivechickenlove     |      Laconia Magnetars       |
 | [2021](https://sleeper.app/leagues/673666958268383232) |   LeathaHands         | phutang24     |       MAksRock       |
